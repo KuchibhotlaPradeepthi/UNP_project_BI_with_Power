@@ -8,5 +8,7 @@ Key Highlights:
 3. Ardently involved in creating data model implemented data transformations and calculations for accurate analysis
 
 PBIX file link - https://drive.google.com/file/d/1m0lGskE8O4xqvGwqqp9l5bURfShZ2ze8/view?usp=sharing
+
 PDF file link - https://drive.google.com/file/d/1mzcv0bwtOcJOi1WYUr24m26xaw4iRtjR/view?usp=sharing
+
 PPT link - https://drive.google.com/file/d/1mzcv0bwtOcJOi1WYUr24m26xaw4iRtjR/view?usp=sharing
