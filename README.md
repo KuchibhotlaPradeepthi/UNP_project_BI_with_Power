@@ -1,6 +1,6 @@
 # UNP_project_BI_with_PowerBI
 
-completed this project as part of my BI with PowerBi Internship with United Network of Professionals (UNP)
+Completed this project as part of my BI with PowerBi Internship with United Network of Professionals (UNP)
 
 Key Highlights:
 1. Contributes to the development of intricate KPIs and dynamic interactive PowerBi interfaces.
