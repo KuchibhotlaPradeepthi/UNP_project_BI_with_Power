@@ -2,7 +2,7 @@
 
 Completed this project as part of my BI with PowerBi Internship with United Network of Professionals (UNP)
 
-A Power BI project analyzing employee attrition trends within a company/organisation. The dashboard provides insightful visualizations and analytics to understand the factors contributing to attrition rates, helping stakeholders make informed decisions to improve retention strategies.
+A Power BI project analyzing employee attrition trends within a company/organisation. The dashboard provides insightful visualizations and analytics to understand the factors contributing to attrition rates.
 
 Key Highlights:
 1. Contributes to the development of intricate KPIs and dynamic interactive PowerBi interfaces.
